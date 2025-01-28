@@ -1,0 +1,24 @@
+Functional:
+  + User authentication 	
+  + Course progress tracking	
+  + Scraping course handbook	
+  + Admin features
+  + Visible feedback ( loadings pages etc) 
+  + Exporting 	
+Non Functional: 
+  + Scraping shouldn't take more than 5 seconds lol --> Performance 
+  + Intuvitive and bssic UI --> Learnability + memorability
+  + clean code --> maintainability 
+  + Make it accessibile 
+Tech Stack: 
+  + Front-end: 
+    1. React 
+  + Back-end: 
+    1. Web sceaping --> BeauitfulSoup
+    2. Python (Flask) 
+    3. Database 
+  + Hosting: 
+
+
+Jira board for user stories + sprints: 
+https://getajob2025.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
